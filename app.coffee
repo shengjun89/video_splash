@@ -6,27 +6,27 @@ n = Screen.width/375
 r = Screen.width/Screen.height
 
 Screen.backgroundColor = "#FFF"
-skip.z = 2
-skip.x = Align.right(-12*n)
-skip.y = Align.bottom(-160)
-skip.originY = 1
-skip.originX = 1
-skip.scale = n
+# skip.z = 2
+# skip.x = Align.right(-12*n)
+# skip.y = Align.bottom(-160)
+# skip.originY = 1
+# skip.originX = 1
+# skip.scale = n
 	
-audio = new Layer
-	width: 50*n
-	height: 50*n
-	image: "images/audio.png"
-	z: 3
-	x: 0
-	y: Align.bottom(-150)
-	scale: 0.6
-
-text.z = 2
-text.y = 50*n
-text.x = Align.right(-12*n)
-text.originX = 1
-text.scale = n
+# audio = new Layer
+# 	width: 50*n
+# 	height: 50*n
+# 	image: "images/audio.png"
+# 	z: 3
+# 	x: 0
+# 	y: Align.bottom(-150)
+# 	scale: 0.6
+# 
+# text.z = 2
+# text.y = 50*n
+# text.x = Align.right(-12*n)
+# text.originX = 1
+# text.scale = n
 
 
 
