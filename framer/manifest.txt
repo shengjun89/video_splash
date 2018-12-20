@@ -28,7 +28,3 @@ modules/adapt/module.json
 modules/myModule.coffee
 media/splash_movie.mp4.zip
 media/splash_movie.mp4
-media/splash_movie4.mp4
-media/splash_movie2.mp4
-media/splash_movie3.mp4
-media/splash_movie1.mp4

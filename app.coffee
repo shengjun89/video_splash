@@ -25,6 +25,8 @@ audio = new Layer
 text.z = 2
 text.y = 50*n
 text.x = Align.right(-12*n)
+text.originX = 1
+text.scale = n
 
 
 
