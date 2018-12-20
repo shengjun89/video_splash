@@ -67,8 +67,8 @@ if r < 0.66
 		image: "images/slogan.png"
 # 	layerA.player.autoplay = true
 else
-	skip.y = Align.bottom(-10*n)
-	audio.y = Align.bottom()
+# 	skip.y = Align.bottom(-10*n)
+# 	audio.y = Align.bottom()
 	ad.height = Screen.height
 	layerA = new VideoLayer	
 		parent: ad
